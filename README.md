@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jack Danford
 
-<!--
-**jdanford75/jdanford75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎖 Marine veteran | 👮 Former Law Enforcement | 💻 Cybersecurity Student  
 
-Here are some ideas to get you started:
+Currently pursuing my BAS in Cybersecurity while building projects in ethical hacking, OSINT, and penetration testing.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Nmap, Wireshark, Splunk, Nessus  
+- Kali Linux & Metasploitable labs  
+- Web app testing (OWASP ZAP, Burp Suite)  
+- Ticketing & escalation workflows (JaegerOps)  
+
+## 📂 Projects
+- [Tesla Recon](https://github.com/jdanford75/tesla-recon) – reconnaissance practice repo  
+- [JaegerOps](https://jaegerops.netlify.app/) – personal cybersecurity site  
+
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+
+---
+
+⚡ Open to participating in research and usability studies.  
