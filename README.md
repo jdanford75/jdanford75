@@ -15,7 +15,7 @@ Currently pursuing my BAS in Cybersecurity while building projects in ethical ha
 - [JaegerOps](https://jaegerops.netlify.app/) – personal cybersecurity site
 
 ## 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
+- [LinkedIn](https://www.linkedin.com/in/jackdanford-infosec)
 
 ---
 ⚡ Open to participating in research and usability studies.
