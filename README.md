@@ -1,41 +1,58 @@
 # Jack Danford
 
-**Marine Corps Veteran | Former Detective | Cybersecurity Student**
+**Marine Corps Veteran | Former Detective | Cybersecurity & GRC Student**
 
-I earned an **Associate of Applied Science in Cybersecurity** from Austin Community College in May 2025 and am currently pursuing a **Bachelor of Applied Science in Cybersecurity**.
+I earned an **AAS in Cybersecurity** from Austin Community College in May 2025 and am pursuing a **BAS in Cybersecurity**.
 
-My background includes more than 12 years with the Williamson County Sheriff's Office, including detective work, along with military service and physical security operations. I bring experience in investigations, evidence handling, documentation, confidentiality, incident response, and working under pressure. I'm building on that experience through hands-on cybersecurity coursework and projects.
+I bring more than 12 years of experience at the Williamson County Sheriff's Office, including detective work, plus Marine Corps and physical security operations experience. My background includes investigations, evidence handling, confidentiality, policy enforcement, incident documentation, and making decisions under pressure.
 
-## Featured Cybersecurity Projects
+I am now applying those transferable skills to **cybersecurity governance, risk and compliance (GRC), IT controls, incident analysis, and security technology** through academic projects.
 
-### [ACME Insights — Web Application Security Assessment](https://github.com/jdanford75/ACME-Insights-Security-Assessment)
-Academic assessment of an intentionally vulnerable local application. Used Firefox Developer Tools, OWASP ZAP, and curl to document browser-side exposure, demonstrate a DOM-based XSS issue, validate selected HTTP header observations, and recommend corrective actions. This was a controlled lab, not a production penetration test.
+## Featured Projects
 
-### [NovaTech — Cyber Resilience Strategy](https://github.com/jdanford75/NovaTech-Cyber-Resilience-Strategy)
-Academic risk and resilience strategy for a fictional manufacturer. Covers ransomware recovery, vendor access, zero trust, IT/OT considerations, insider-threat safeguards, measurable KPIs, and phased security improvements. Includes an executive summary and full report.
+### Governance, Risk, Compliance & Privacy
 
-### [JaegerOps — Cybersecurity Portfolio Website](https://github.com/jdanford75/Jaegerops-site)
-Personal cybersecurity website project using HTML, CSS, and JavaScript, with a focus on communicating technical work clearly. [Visit the website](https://jaegerops.netlify.app/).
+| Project | What the academic work demonstrates |
+| --- | --- |
+| [BYOD Policy Audit & GRC Assessment](https://github.com/jdanford75/BYOD-Policy-Audit-and-GRC-Assessment) | NIST-aligned audit planning, evidence requests, policy review, administrative controls and test procedures |
+| [MercuryPay Vendor Risk & PCI Due Diligence](https://github.com/jdanford75/MercuryPay-Vendor-Risk-and-PCI-Due-Diligence) | Vendor compliance checklist, contractual controls, PCI DSS evidence requests and follow-up tracking |
+| [Cyber Law — Consumer Privacy Analysis](https://github.com/jdanford75/Cyber-Law-Consumer-Privacy-Analysis) | FTC Act, Texas privacy law, GDPR applicability, meaningful consent, behavioral data and privacy-risk analysis |
+| [Lexora — AI & Legal Document Governance](https://github.com/jdanford75/Lexora-AI-Legal-Document-Governance) | RACI ownership, legal holds, access control, records lifecycle, human review of AI and audit trails |
+| [NovaTech — Cyber Resilience Strategy](https://github.com/jdanford75/NovaTech-Cyber-Resilience-Strategy) | Ransomware recovery, vendor access, zero trust, IT/OT considerations, KPIs and a phased improvement plan |
+| [Active Directory Access Governance & Insider Risk](https://github.com/jdanford75/Active-Directory-Access-Governance-and-Insider-Risk) | Proposed AD audit scope, account lifecycle, least privilege, access reviews and a qualitative insider-risk matrix |
+| [Business Impact Analysis & IT Risk Assessment](https://github.com/jdanford75/Business-Impact-Analysis-and-IT-Risk-Assessment) | Recovery objectives (MTD, RTO, RPO), critical processes, dependencies and risk mitigation priorities |
+
+### Technical Security & Investigation
+
+| Project | What the academic work demonstrates |
+| --- | --- |
+| [ACME Insights — Web Application Security Assessment](https://github.com/jdanford75/ACME-Insights-Security-Assessment) | Controlled web application testing, browser-side exposures, DOM XSS observation, OWASP ZAP passive analysis and curl verification |
+| [IOC Investigation & Detection Analysis](https://github.com/jdanford75/IOC-Investigation-and-Detection-Analysis) | Phishing indicators, suspected account takeover, Cyber Kill Chain reasoning and proposed Microsoft 365 log review |
+
+### Website Development
+
+[JaegerOps source repository](https://github.com/jdanford75/Jaegerops-site) — an HTML/CSS/JavaScript portfolio-site project. The former hosted Netlify address is **not currently live**; the source project remains available on GitHub.
 
 ## Education & Credentials
 
-- **AAS, Cybersecurity** — Austin Community College (2025)
-- **BAS, Cybersecurity** — Austin Community College (in progress)
+- **Associate of Applied Science, Cybersecurity** — Austin Community College, May 2025
+- **Bachelor of Applied Science, Cybersecurity** — Austin Community College, in progress
 - **Google Cybersecurity Professional Certificate**
-- LAN systems administration and programming coursework / credentials
+- LAN systems administration and programming credentials/coursework
 
-## Technical Learning & Projects
+## Tools & Areas of Study
 
-- **Security assessment:** OWASP ZAP, Firefox Developer Tools, curl, vulnerability documentation and remediation recommendations
-- **Networking and investigation labs:** Wireshark, Nmap, indicators of compromise, incident-response concepts
-- **Systems and development:** Windows, Ubuntu/Linux labs, Docker, introductory Python, SQL/database and web-security coursework
-- **Governance and risk:** NIST-aligned controls, risk registers, access governance, third-party risk, incident response and business continuity
+- **Security assessment labs:** Firefox Developer Tools, OWASP ZAP, curl, Ubuntu and Docker
+- **Network and incident response coursework:** Wireshark, Nmap, indicators of compromise, incident response and business continuity
+- **Systems and development coursework:** Windows/Linux, introductory Python, SQL and web security
+- **GRC:** NIST guidance, risk registers, audit evidence, third-party risk, identity/access governance, privacy and AI governance
+- **Documentation:** Security reports, audit plans, Excel tracking, executive summaries and procedural writing
 
-These are academic projects and learning experiences, **not claims of paid professional cybersecurity or GRC employment**.
+**Transparency:** These are academic exercises and selected personal projects, not claims of paid cybersecurity/GRC experience or completed assessments of real client systems. Proposed controls, test plans, and recovery targets are identified as such in their respective projects.
 
 ## Career Interests
 
-Open to opportunities in **entry-level IT/security operations, cybersecurity analysis, GRC/compliance coordination, incident investigation, and security technology support**. I am especially interested in roles that combine investigative judgment, careful documentation, and technical problem-solving.
+Interested in entry-level **GRC / compliance operations, IT audit support, third-party risk, IAM/access review, cybersecurity analysis, incident investigation and security technology operations**. I particularly value work combining evidence-based judgment, clear documentation and practical problem-solving.
 
 ## Connect
 
