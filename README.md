@@ -2,58 +2,54 @@
 
 **Marine Corps Veteran | Former Detective | Cybersecurity & GRC Student**
 
-I earned an **AAS in Cybersecurity** from Austin Community College in May 2025 and am pursuing a **BAS in Cybersecurity**.
+I bring **12+ years at the Williamson County Sheriff's Office, including detective work**, plus Marine Corps and professional physical-security experience. My work has involved investigations, fact-based reporting, confidential information, procedure development, training, coaching, and operational risk decisions.
 
-I bring more than 12 years of experience at the Williamson County Sheriff's Office, including detective work, plus Marine Corps and physical security operations experience. My background includes investigations, evidence handling, confidentiality, policy enforcement, incident documentation, and making decisions under pressure.
+I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am pursuing a **Bachelor of Applied Science in Cybersecurity** at Austin Community College. I'm seeking an opportunity to combine my investigative and operational background with practical cybersecurity and GRC skills.
 
-I am now applying those transferable skills to **cybersecurity governance, risk and compliance (GRC), IT controls, incident analysis, and security technology** through academic projects.
+**What I bring:** evidence-based judgment · clear documentation · training and procedures · access-control accountability · security risk analysis
 
-## Featured Projects
+## Start Here — Six Selected Work Samples
 
-### Governance, Risk, Compliance & Privacy
-
-| Project | What the academic work demonstrates |
+| Project | Evidence of skills |
 | --- | --- |
-| [BYOD Policy Audit & GRC Assessment](https://github.com/jdanford75/BYOD-Policy-Audit-and-GRC-Assessment) | NIST-aligned audit planning, evidence requests, policy review, administrative controls and test procedures |
-| [MercuryPay Vendor Risk & PCI Due Diligence](https://github.com/jdanford75/MercuryPay-Vendor-Risk-and-PCI-Due-Diligence) | Vendor compliance checklist, contractual controls, PCI DSS evidence requests and follow-up tracking |
-| [Cyber Law — Consumer Privacy Analysis](https://github.com/jdanford75/Cyber-Law-Consumer-Privacy-Analysis) | FTC Act, Texas privacy law, GDPR applicability, meaningful consent, behavioral data and privacy-risk analysis |
-| [Lexora — AI & Legal Document Governance](https://github.com/jdanford75/Lexora-AI-Legal-Document-Governance) | RACI ownership, legal holds, access control, records lifecycle, human review of AI and audit trails |
-| [NovaTech — Cyber Resilience Strategy](https://github.com/jdanford75/NovaTech-Cyber-Resilience-Strategy) | Ransomware recovery, vendor access, zero trust, IT/OT considerations, KPIs and a phased improvement plan |
-| [Active Directory Access Governance & Insider Risk](https://github.com/jdanford75/Active-Directory-Access-Governance-and-Insider-Risk) | Proposed AD audit scope, account lifecycle, least privilege, access reviews and a qualitative insider-risk matrix |
-| [Business Impact Analysis & IT Risk Assessment](https://github.com/jdanford75/Business-Impact-Analysis-and-IT-Risk-Assessment) | Recovery objectives (MTD, RTO, RPO), critical processes, dependencies and risk mitigation priorities |
+| **[Security Operations Training & Documentation](https://github.com/jdanford75/Security-Operations-Training-and-Documentation)** | Employer-neutral training deck, incident-reporting checklist, scenario exercises and FTO coaching template informed by professional experience |
+| **[Physical Access Governance & Control Standardization](https://github.com/jdanford75/Physical-Access-Governance-and-Control-Standardization)** | Newly written illustrative access-governance standard, decision/evidence matrix and training-assurance plan informed by professional work drafting operational guidance |
+| **[ACME Insights — Web Application Security Assessment](https://github.com/jdanford75/ACME-Insights-Security-Assessment)** | Local authorized lab: browser inspection, DOM XSS observation, passive OWASP ZAP analysis and curl evidence |
+| **[MercuryPay — Vendor Risk & PCI Due Diligence](https://github.com/jdanford75/MercuryPay-Vendor-Risk-and-PCI-Due-Diligence)** | Academic Excel vendor checklist, contractual gap analysis, PCI DSS evidence requests and follow-up tracking |
+| **[Orion Global — Cyber Incident Response Playbook](https://github.com/jdanford75/Orion-Global-Cyber-Incident-Response-Playbook)** | Visual academic ransomware playbook covering international notification issue spotting, incident command and evidence preservation |
+| **[Cyber Law — Consumer Privacy Analysis](https://github.com/jdanford75/Cyber-Law-Consumer-Privacy-Analysis)** | Academic privacy-law analysis of consent, data collection, consumer protection and potential compliance obligations |
 
-### Technical Security & Investigation
+## Additional Cybersecurity & GRC Projects
 
-| Project | What the academic work demonstrates |
-| --- | --- |
-| [ACME Insights — Web Application Security Assessment](https://github.com/jdanford75/ACME-Insights-Security-Assessment) | Controlled web application testing, browser-side exposures, DOM XSS observation, OWASP ZAP passive analysis and curl verification |
-| [IOC Investigation & Detection Analysis](https://github.com/jdanford75/IOC-Investigation-and-Detection-Analysis) | Phishing indicators, suspected account takeover, Cyber Kill Chain reasoning and proposed Microsoft 365 log review |
-
-### Website Development
-
-[JaegerOps source repository](https://github.com/jdanford75/Jaegerops-site) — an HTML/CSS/JavaScript portfolio-site project. The former hosted Netlify address is **not currently live**; the source project remains available on GitHub.
+- [BYOD Policy Audit & GRC Assessment](https://github.com/jdanford75/BYOD-Policy-Audit-and-GRC-Assessment) — NIST-aligned audit planning, administrative controls and evidence requirements
+- [NovaTech Cyber Resilience Strategy](https://github.com/jdanford75/NovaTech-Cyber-Resilience-Strategy) — ransomware resilience, vendor access, zero trust and phased improvements
+- [Lexora — AI & Legal Document Governance](https://github.com/jdanford75/Lexora-AI-Legal-Document-Governance) — records lifecycle, RACI, human AI oversight and legal holds
+- [Active Directory Access Governance & Insider Risk](https://github.com/jdanford75/Active-Directory-Access-Governance-and-Insider-Risk) — audit scoping and qualitative access-risk analysis
+- [Widget Software Cybersecurity Resilience Plans](https://github.com/jdanford75/Business-Impact-Analysis-and-IT-Risk-Assessment) — contingency policy, BIA/risk assessment, incident response and disaster recovery
+- [IOC Investigation & Detection Analysis](https://github.com/jdanford75/IOC-Investigation-and-Detection-Analysis) — Microsoft 365 phishing scenario, indicators and investigation planning
 
 ## Education & Credentials
 
-- **Associate of Applied Science, Cybersecurity** — Austin Community College, May 2025
-- **Bachelor of Applied Science, Cybersecurity** — Austin Community College, in progress
+- **AAS, Cybersecurity** — Austin Community College, May 2025
+- **BAS, Cybersecurity** — Austin Community College, in progress
 - **Google Cybersecurity Professional Certificate**
 - LAN systems administration and programming credentials/coursework
 
 ## Tools & Areas of Study
 
-- **Security assessment labs:** Firefox Developer Tools, OWASP ZAP, curl, Ubuntu and Docker
-- **Network and incident response coursework:** Wireshark, Nmap, indicators of compromise, incident response and business continuity
-- **Systems and development coursework:** Windows/Linux, introductory Python, SQL and web security
-- **GRC:** NIST guidance, risk registers, audit evidence, third-party risk, identity/access governance, privacy and AI governance
-- **Documentation:** Security reports, audit plans, Excel tracking, executive summaries and procedural writing
-
-**Transparency:** These are academic exercises and selected personal projects, not claims of paid cybersecurity/GRC experience or completed assessments of real client systems. Proposed controls, test plans, and recovery targets are identified as such in their respective projects.
+- **Security labs:** Firefox Developer Tools, OWASP ZAP, curl, Wireshark, Nmap, Ubuntu/Linux and Docker
+- **Systems and programming coursework:** Windows, Python fundamentals, SQL/database and web security
+- **GRC:** NIST controls and guidance, risk assessment, audit evidence, third-party risk, privacy, identity/access governance, business continuity and AI governance
+- **Professional strengths:** investigations, incident documentation, training development, procedural consistency, access control and factual reporting
 
 ## Career Interests
 
-Interested in entry-level **GRC / compliance operations, IT audit support, third-party risk, IAM/access review, cybersecurity analysis, incident investigation and security technology operations**. I particularly value work combining evidence-based judgment, clear documentation and practical problem-solving.
+Interested in **entry-level cybersecurity / GRC, IT audit support, compliance coordination, third-party risk, IAM/access review, security technology support, and incident investigation**.
+
+**Transparency:** Academic case studies are not client engagements or proof of deployed controls. The two professional experience-informed portfolios use newly created, employer-neutral examples—not confidential workplace materials or claims of formal employer policy adoption. Tools and platforms listed reflect coursework/lab exposure, not claims of advanced proficiency or paid cybersecurity employment.
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/jackdanford-infosec)
+
+*JaegerOps source code is retained [here](https://github.com/jdanford75/Jaegerops-site); its former public website is not currently live.*
