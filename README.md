@@ -6,7 +6,7 @@ I bring **12+ years at the Williamson County Sheriff's Office, including detecti
 
 I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am pursuing a **Bachelor of Applied Science in Cybersecurity** at Austin Community College, with expected graduation in **2027**. I'm seeking an entry-level role in cybersecurity risk and compliance, IT audit support, or security investigations.
 
-**What I bring:** evidence-based judgment · clear documentation · training and procedures · access-control accountability · security risk analysis
+**How I work:** I listen before making decisions, coach people through changes, and document the reasoning behind decisions others need to review. That approach comes from crisis response, investigations, and supervising more than 40 employees in an automated UPS hub.
 
 ## Start Here — Six Selected Work Samples
 
