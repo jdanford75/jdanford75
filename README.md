@@ -1,10 +1,10 @@
 # Jack Danford
 
-**Marine Corps Veteran | Former Detective | Cybersecurity & GRC Student**
+**Former Detective | Marine Corps Veteran | Cybersecurity BAS Student | GRC, IT Audit & Security Investigations**
 
 I bring **12+ years at the Williamson County Sheriff's Office, including detective work**, plus Marine Corps and professional physical-security experience. My work has involved investigations, fact-based reporting, confidential information, procedure development, training, coaching, and operational risk decisions.
 
-I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am pursuing a **Bachelor of Applied Science in Cybersecurity** at Austin Community College. I'm seeking an opportunity to combine my investigative and operational background with practical cybersecurity and GRC skills.
+I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am pursuing a **Bachelor of Applied Science in Cybersecurity** at Austin Community College, with expected graduation in **2027**. I'm seeking an entry-level role in cybersecurity risk and compliance, IT audit support, or security investigations.
 
 **What I bring:** evidence-based judgment · clear documentation · training and procedures · access-control accountability · security risk analysis
 
@@ -12,11 +12,11 @@ I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am 
 
 | Project | Evidence of skills |
 | --- | --- |
-| **[Security Operations Training & Documentation](https://github.com/jdanford75/Security-Operations-Training-and-Documentation)** | Employer-neutral training deck, incident-reporting checklist, scenario exercises and FTO coaching template informed by professional experience |
 | **[Physical Access Governance & Control Standardization](https://github.com/jdanford75/Physical-Access-Governance-and-Control-Standardization)** | Newly written illustrative access-governance standard, decision/evidence matrix and training-assurance plan informed by professional work drafting operational guidance |
-| **[ACME Insights — Web Application Security Assessment](https://github.com/jdanford75/ACME-Insights-Security-Assessment)** | Local authorized lab: browser inspection, DOM XSS observation, passive OWASP ZAP analysis and curl evidence |
 | **[MercuryPay — Vendor Risk & PCI Due Diligence](https://github.com/jdanford75/MercuryPay-Vendor-Risk-and-PCI-Due-Diligence)** | Academic Excel vendor checklist, contractual gap analysis, PCI DSS evidence requests and follow-up tracking |
+| **[Security Operations Training & Documentation](https://github.com/jdanford75/Security-Operations-Training-and-Documentation)** | Employer-neutral training deck, incident-reporting checklist, scenario exercises and FTO coaching template informed by professional experience |
 | **[Orion Global — Cyber Incident Response Playbook](https://github.com/jdanford75/Orion-Global-Cyber-Incident-Response-Playbook)** | Visual academic ransomware playbook covering international notification issue spotting, incident command and evidence preservation |
+| **[ACME Insights — Web Application Security Assessment](https://github.com/jdanford75/ACME-Insights-Security-Assessment)** | Local authorized lab: browser inspection, DOM XSS observation, passive OWASP ZAP analysis and curl evidence |
 | **[Cyber Law — Consumer Privacy Analysis](https://github.com/jdanford75/Cyber-Law-Consumer-Privacy-Analysis)** | Academic privacy-law analysis of consent, data collection, consumer protection and potential compliance obligations |
 
 ## Additional Cybersecurity & GRC Projects
