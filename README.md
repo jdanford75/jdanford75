@@ -10,11 +10,11 @@ I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am 
 
 ## Start Here — Six Selected Work Samples
 
-| Project | Evidence of skills |
+| Project | What you’ll find |
 | --- | --- |
-| **[Physical Access Governance & Control Standardization](https://github.com/jdanford75/Physical-Access-Governance-and-Control-Standardization)** | Newly written illustrative access-governance standard, decision/evidence matrix and training-assurance plan informed by professional work drafting operational guidance |
+| **[Physical Access Governance & Control Standardization](https://github.com/jdanford75/Physical-Access-Governance-and-Control-Standardization)** | Sample access standard, decision and evidence matrix, and officer training plan |
 | **[MercuryPay — Vendor Risk & PCI Due Diligence](https://github.com/jdanford75/MercuryPay-Vendor-Risk-and-PCI-Due-Diligence)** | Academic Excel vendor checklist, contractual gap analysis, PCI DSS evidence requests and follow-up tracking |
-| **[Security Operations Training & Documentation](https://github.com/jdanford75/Security-Operations-Training-and-Documentation)** | Employer-neutral training deck, incident-reporting checklist, scenario exercises and FTO coaching template informed by professional experience |
+| **[Security Operations Training & Documentation](https://github.com/jdanford75/Security-Operations-Training-and-Documentation)** | Training slides, an incident-reporting checklist, practice scenarios, and a field training officer coaching template |
 | **[Orion Global — Cyber Incident Response Playbook](https://github.com/jdanford75/Orion-Global-Cyber-Incident-Response-Playbook)** | Visual academic ransomware playbook covering international notification issue spotting, incident command and evidence preservation |
 | **[ACME Insights — Web Application Security Assessment](https://github.com/jdanford75/ACME-Insights-Security-Assessment)** | Local authorized lab: browser inspection, DOM XSS observation, passive OWASP ZAP analysis and curl evidence |
 | **[Cyber Law — Consumer Privacy Analysis](https://github.com/jdanford75/Cyber-Law-Consumer-Privacy-Analysis)** | Academic privacy-law analysis of consent, data collection, consumer protection and potential compliance obligations |
