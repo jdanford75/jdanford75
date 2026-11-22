@@ -6,7 +6,7 @@ I bring **12+ years at the Williamson County Sheriff's Office, including detecti
 
 I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am pursuing a **Bachelor of Applied Science in Cybersecurity** at Austin Community College, with expected graduation in **2027**. I'm seeking an entry-level role in cybersecurity risk and compliance, IT audit support, or security investigations.
 
-**How I work:** I listen before making decisions, coach people through changes, and document the reasoning behind decisions others need to review. That approach comes from crisis response, investigations, and supervising more than 40 employees in an automated UPS hub.
+**How I lead:** My leadership experience spans Marine service, law enforcement crisis response, and security operations. At UPS, I supervised more than 40 employees, coached them through challenges, and moved people into assignments that better fit their strengths. In security operations, I wrote procedures and trained officers to put them into practice.
 
 ## Start Here — Six Selected Work Samples
 
