@@ -23,6 +23,8 @@ I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am 
 
 ## Additional Cybersecurity & GRC Projects
 
+- [BrightLayer Analytics — Network Security Diagram](https://github.com/jdanford75/BrightLayer-Network-Security-Diagram) — visual network design, trust boundaries, and questions for validating assumed controls
+
 - [BYOD Policy Audit & GRC Assessment](https://github.com/jdanford75/BYOD-Policy-Audit-and-GRC-Assessment) — NIST-aligned audit planning, administrative controls and evidence requirements
 - [NovaTech Cyber Resilience Strategy](https://github.com/jdanford75/NovaTech-Cyber-Resilience-Strategy) — ransomware resilience, vendor access, zero trust and phased improvements
 - [Lexora — AI & Legal Document Governance](https://github.com/jdanford75/Lexora-AI-Legal-Document-Governance) — records lifecycle, RACI, human AI oversight and legal holds
