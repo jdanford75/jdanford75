@@ -31,7 +31,7 @@ I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am 
 - [NovaTech Cyber Resilience Strategy](https://github.com/jdanford75/NovaTech-Cyber-Resilience-Strategy) — ransomware resilience, vendor access, zero trust and phased improvements
 - [Lexora — AI & Legal Document Governance](https://github.com/jdanford75/Lexora-AI-Legal-Document-Governance) — records lifecycle, RACI, human AI oversight and legal holds
 - [Active Directory Access Governance & Insider Risk](https://github.com/jdanford75/Active-Directory-Access-Governance-and-Insider-Risk) — audit scoping and qualitative access-risk analysis
-- [Widget Software Cybersecurity Resilience Plans](https://github.com/jdanford75/Business-Impact-Analysis-and-IT-Risk-Assessment) — contingency policy, BIA/risk assessment, incident response and disaster recovery
+- [Widget Software Cybersecurity Resilience Plans](https://github.com/jdanford75/Business-Impact-Analysis-and-IT-Risk-Assessment) — five labs covering contingency policy, business impact and risk assessment, incident response, disaster recovery, and business continuity
 - [IOC Investigation & Detection Analysis](https://github.com/jdanford75/IOC-Investigation-and-Detection-Analysis) — Microsoft 365 phishing scenario, indicators and investigation planning
 
 ## Education & Credentials
