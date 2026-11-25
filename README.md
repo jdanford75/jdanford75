@@ -8,12 +8,13 @@ I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am 
 
 **How I lead:** My leadership experience spans Marine service, law enforcement crisis response, and security operations. At UPS, I supervised more than 40 employees, coached them through challenges, and moved people into assignments that better fit their strengths. In security operations, I wrote procedures and trained officers to put them into practice.
 
-## Start Here — Seven Selected Work Samples
+## Start Here — Eight Selected Work Samples
 
 | Project | What you’ll find |
 | --- | --- |
 | **[Physical Access Governance & Control Standardization](https://github.com/jdanford75/Physical-Access-Governance-and-Control-Standardization)** | Sample access standard, decision and evidence matrix, and officer training plan |
 | **[Microsoft 365 Account Takeover & Payment Fraud](https://github.com/jdanford75/Microsoft-365-Account-Takeover-Case-Study)** | Published-campaign analysis, evidence assessment, and a proposed Microsoft 365 detection and triage plan |
+| **[BitLocker Control Verification](https://github.com/jdanford75/BitLocker-Control-Verification)** | Hands-on Windows encryption verification, audit evidence, and a point-in-time control conclusion |
 | **[MercuryPay — Vendor Risk & PCI Due Diligence](https://github.com/jdanford75/MercuryPay-Vendor-Risk-and-PCI-Due-Diligence)** | Academic Excel vendor checklist, contractual gap analysis, PCI DSS evidence requests and follow-up tracking |
 | **[Security Operations Training & Documentation](https://github.com/jdanford75/Security-Operations-Training-and-Documentation)** | Training slides, an incident-reporting checklist, practice scenarios, and a field training officer coaching template |
 | **[Orion Global — Cyber Incident Response Playbook](https://github.com/jdanford75/Orion-Global-Cyber-Incident-Response-Playbook)** | Visual academic ransomware playbook covering international notification issue spotting, incident command and evidence preservation |
