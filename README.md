@@ -24,6 +24,7 @@ I earned an **Associate of Applied Science in Cybersecurity (May 2025)** and am 
 ## Additional Cybersecurity & GRC Projects
 
 - [Docker Web App — CSIS 3385 Project 1B](https://github.com/jdanford75/CSIS_3385_Fall_2026_Danford#project-1b--docker-web-app) — Nginx container build, local port mapping, and browser verification
+- [Database Schema & ERD — CSIS 3385 Project 3](https://github.com/jdanford75/CSIS_3385_Fall_2026_Danford#project-3--database-schema--erd) — relational modeling, integrity constraints, and server-side validation
 
 - [BrightLayer Analytics — Network Security Diagram](https://github.com/jdanford75/BrightLayer-Network-Security-Diagram) — visual network design, trust boundaries, and questions for validating assumed controls
 
